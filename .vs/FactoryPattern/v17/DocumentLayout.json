@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Avira\\Desktop\\REPOS\\Factory-Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\avira\\desktop\\repos\\factory-pattern\\factorypattern\\vehicle factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\vehicle factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\avira\\desktop\\repos\\factory-pattern\\factorypattern\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\avira\\desktop\\repos\\factory-pattern\\factorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\avira\\desktop\\repos\\factory-pattern\\factorypattern\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\avira\\desktop\\repos\\factory-pattern\\factorypattern\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\Avira\\Desktop\\REPOS\\Factory-Pattern\\FactoryPattern\\motorcycle.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\motorcycle.cs",
+              "ToolTip": "C:\\Users\\Avira\\Desktop\\REPOS\\Factory-Pattern\\FactoryPattern\\motorcycle.cs",
+              "RelativeToolTip": "FactoryPattern\\motorcycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:38:44.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle Factory.cs",
+              "DocumentMoniker": "C:\\Users\\Avira\\Desktop\\REPOS\\Factory-Pattern\\FactoryPattern\\Vehicle Factory.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Vehicle Factory.cs",
+              "ToolTip": "C:\\Users\\Avira\\Desktop\\REPOS\\Factory-Pattern\\FactoryPattern\\Vehicle Factory.cs",
+              "RelativeToolTip": "FactoryPattern\\Vehicle Factory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:00:37.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ivehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Avira\\Desktop\\REPOS\\Factory-Pattern\\FactoryPattern\\Ivehicle.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Ivehicle.cs",
+              "ToolTip": "C:\\Users\\Avira\\Desktop\\REPOS\\Factory-Pattern\\FactoryPattern\\Ivehicle.cs",
+              "RelativeToolTip": "FactoryPattern\\Ivehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:39:28.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "car.cs",
+              "DocumentMoniker": "C:\\Users\\Avira\\Desktop\\REPOS\\Factory-Pattern\\FactoryPattern\\car.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\car.cs",
+              "ToolTip": "C:\\Users\\Avira\\Desktop\\REPOS\\Factory-Pattern\\FactoryPattern\\car.cs",
+              "RelativeToolTip": "FactoryPattern\\car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:38:29.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Avira\\Desktop\\REPOS\\Factory-Pattern\\FactoryPattern\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Avira\\Desktop\\REPOS\\Factory-Pattern\\FactoryPattern\\Program.cs",
+              "RelativeToolTip": "FactoryPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:11:15.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
